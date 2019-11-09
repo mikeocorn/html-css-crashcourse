@@ -52,7 +52,7 @@ The Moon and Earth orbit a common barycenter every 27.32 days relative to the ba
 
 Mars 
 
-# Earth
+# Mars
 
 Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury. 
 
