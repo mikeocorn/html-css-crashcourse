@@ -25,10 +25,10 @@ a {
     font-size: 24px;
 }
 
-#earth-title {
+.earth-title {
     color: #2a8442;
 }
 
-#mars-title {
+.mars-title {
     color: #d33d1f;
 }
