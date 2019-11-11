@@ -1,0 +1,22 @@
+body {
+    color: #f4f4f4;
+    background-color: #123;
+}
+
+h1 {
+    font-size: 60px;
+    color: #2a8442;
+}
+
+h2 {
+    color: #2a8442;
+}
+
+p {
+    font-size: 16px;
+    color: lightblue;
+}
+
+a {
+    color: violet;
+}
