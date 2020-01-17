@@ -1,0 +1,51 @@
+
+/* ----  Global block element styles ---- */
+
+body {
+    color: #f4f4f4;
+    background-color: #002366;
+}
+
+
+.intro-planets {
+    border-style: outset;
+    border-color: blue;
+    border-width: 15px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+
+.intro-earth {
+    border-style: outset;
+    border-color: #2a8442;
+    border-width: 15px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.intro-mars {
+    border-style: outset;
+    border-color: #d33d1f;
+    border-width: 15px;
+    padding: 100px;
+    margin-bottom: 15px;
+}
+
+.intro-image {
+    padding: 0 100px 10px;
+    border-width: 5px;
+    border-color: white;
+}
+
+.main-planets {
+    padding: 100px;
+}
+
+/* ---- type element styles  ---- */
+
+h1 {
+    font-size: 60px;
+    color: #2a8442;
+    text-align: center;
+}
