@@ -2,11 +2,13 @@
 
 /* ----  Global block element styles ---- */
 
-body {
+
+/* ---- Planet Block Element Styles ---- */
+
+.planets {
     color: #f4f4f4;
     background-color: #002366;
 }
-
 
 .intro-planets {
     border-style: outset;
@@ -43,6 +45,41 @@ body {
     padding: 100px;
 }
 
+/* ---- Dinosaur Block Element Styles ---- */
+
+
+/*
+.dino-body {
+    color: #f4f4f4;
+    background-color: #2a8442;
+}
+*/
+
+.dino-header {
+    color: #f4f4f4;
+    background-color: darkslategray;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 10px 0;
+}
+
+.dino-main {
+    width: 600px;
+    background-color: #f4f4f4;
+    color: #002366;
+    padding: 10px;
+    border: solid 5px;
+    border-color: red;
+}
+
+.dino-footer {
+    background-color: darkslategray;
+    color: #f4f4f4;
+    padding: 25px 0;
+    margin: 25px 0 0 0;
+    text-align: center;
+}
+
 /* ---- type element styles  ---- */
 
 h1 {
@@ -51,17 +88,38 @@ h1 {
     text-align: center;
 }
 
+h1.dino {
+    font-size: 60px;
+    text-align: center;
+}
 
 h2 {
     color: #2a8442;
+
 }
 
+h2.dino {
+    color: rgb(104, 44, 22);
+    font-size: 38px;
+}
+
+h3.dino {
+    color: rgb(104, 44, 22);
+    font-size: 28px;
+}
 
 p {
     font-size: 18px;
     color: lightblue;
 }
 
+p.main {
+    color: #002366;
+}
+p.footer {
+    color: #f4f4f4;
+    text-align: center;
+}
 
 a {
     color: violet;
