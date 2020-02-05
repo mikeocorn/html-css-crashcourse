@@ -38,6 +38,11 @@ footer {
     padding: 5px;
 }
 
+.navigation {
+    width: 600px;
+    margin: 0 auto;
+}
+
 
 /* /// Type elements /// */
 
@@ -67,6 +72,10 @@ p {
 
 .description {
    color: #fff; 
+}
+
+.navigation-link {
+    color: yellow;
 }
 
 
