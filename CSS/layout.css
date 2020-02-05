@@ -1,0 +1,82 @@
+
+/* /// Block elements /// */
+
+body {
+    margin: 0;
+    font-family: Helvetica; 
+}
+
+header {
+    background-color: #588C94;
+    padding: 15px;
+}
+
+main {
+    background-color: #fff;
+    padding: 25px 0;
+}
+
+footer {
+    background-color: #1D3C41;
+}
+
+.content {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.column {
+    display: flex;
+    width: 1000px;
+    margin: 15px auto;
+    padding: 5px 0;
+
+}
+
+.columns {
+    margin: 0 12px;
+    padding: 5px;
+}
+
+
+/* /// Type elements /// */
+
+h1 {
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1D3C41;
+    text-align: center;
+}
+
+h3 {
+   font-size: 28px;
+   color: #fff;
+   text-align: center;
+}
+
+p {
+   font-size: 21px;
+   color: #1D3C41;
+   text-align: center;
+}
+
+.description {
+   color: #fff; 
+}
+
+
+/*
+h1 - 48px
+h2 - 36px
+h3 - 28px
+all other text - 21px
+
+colors: 
+   #588C94 
+   #1D3C41
+*/
